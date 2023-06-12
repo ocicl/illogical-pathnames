@@ -1,0 +1,10 @@
+* illogical-pathnames
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/illogical-pathnames.git   |
+| commit  | ceacd6e  |
+| systems | illogical-pathnames |
+|---------+-------------------------------------------|
+
